@@ -1,2 +1,2 @@
 # LibretroPlayaAI
-A New AI Service for everything, really.
+This AI Will fuel our daily lives, by doing lots of stuff.
